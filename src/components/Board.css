@@ -1,0 +1,161 @@
+.board {
+  padding: var(--space-3xl);
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.board__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--space-lg);
+}
+
+.board__title {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 31.2px;
+  color: var(--color-ink);
+}
+
+.board__write-btn {
+  background: var(--color-primary);
+  color: var(--color-on-primary);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 25.6px;
+  letter-spacing: -0.16px;
+  border: none;
+  border-radius: var(--radius-sm);
+  padding: var(--space-md) var(--space-xl);
+}
+
+/* PC / 태블릿: 표 레이아웃 */
+.board__table--desktop {
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+  border-top: 1px solid var(--color-primary);
+}
+
+.board__table--desktop thead th {
+  font-size: 12.8px;
+  font-weight: 550;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  color: var(--color-body-mid);
+  text-align: left;
+  padding: var(--space-md) var(--space-lg);
+  border-bottom: 1px solid var(--color-hairline);
+}
+
+.board__table--desktop tbody td {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22.4px;
+  color: var(--color-body);
+  padding: var(--space-md) var(--space-lg);
+  border-bottom: 1px solid var(--color-hairline);
+}
+
+.board__table--desktop tbody tr:hover {
+  background: #fafafa;
+}
+
+.board__col-id,
+.board__col-date,
+.board__col-views {
+  text-align: center;
+  white-space: nowrap;
+  width: 1%;
+}
+
+.board__col-author {
+  text-align: center;
+  white-space: nowrap;
+}
+
+/* 모바일: 카드 리스트 레이아웃 (기본은 숨김) */
+.board__list--mobile {
+  display: none;
+}
+
+@media (max-width: 991px) {
+  .board__col-date {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .board {
+    padding: var(--space-3xl) var(--space-lg);
+  }
+
+  .board__header {
+    margin-bottom: var(--space-md);
+  }
+
+  /* 767px 이하부터는 표 대신 카드 리스트로 전환 */
+  .board__table--desktop {
+    display: none;
+  }
+
+  .board__list--mobile {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .board__list-item {
+    border: 1px solid var(--color-hairline);
+    border-radius: var(--radius-sm);
+    padding: var(--space-lg);
+  }
+
+  .board__list-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .board__list-id {
+    font-size: 12px;
+    font-weight: 550;
+    letter-spacing: 0.6px;
+    color: var(--color-mute);
+  }
+
+  .board__list-date {
+    font-size: 12px;
+    color: var(--color-mute-soft);
+  }
+
+  .board__list-title {
+    margin: var(--space-sm) 0;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 25.6px;
+    letter-spacing: -0.16px;
+    color: var(--color-ink);
+  }
+
+  .board__list-row--bottom {
+    font-size: 14px;
+    color: var(--color-body-mid);
+  }
+}
+
+@media (max-width: 479px) {
+  .board__header {
+    flex-direction: column;
+    align-items: stretch;
+    gap: var(--space-md);
+  }
+
+  .board__write-btn {
+    width: 100%;
+  }
+}
