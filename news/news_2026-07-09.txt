@@ -1,6 +1,7 @@
 Anthropic 최신 업데이트 요약
-생성일시: 2026-07-09 17:21 (KST)
+생성일시: 2026-07-09 17:45 (KST)
 소스: https://www.anthropic.com/news
+알림: 이전 리포트(17:21 생성) 대비 새로운 게시물 없음 — 동일한 10건.
 
 1. The Making of Claude Code (2026-07-06)
    요약: Claude Code가 내부용 CLI 도구에서 Anthropic의 코딩 에이전트로 발전한 과정을 연구자, 엔지니어, 초기 사용자들의 시각에서 소개하는 글.
@@ -19,11 +20,11 @@ Anthropic 최신 업데이트 요약
    링크: https://anthropic.com/news/claude-sonnet-5
 
 5. Redeploying Fable 5 (2026-06-30)
-   요약: Fable 5의 전역 재배포 소식과 Amazon, Microsoft, Google 등 파트너사와 함께 제안한 jailbreak 심각도 평가 프레임워크 관련 내용.
+   요약: Fable 5가 7월 1일부터 전 지역에 재배포되며, Amazon·Microsoft·Google 등 파트너사와 함께 제안한 jailbreak 심각도 평가 프레임워크 관련 내용.
    링크: https://anthropic.com/news/redeploying-fable-5
 
 6. Claude Science, an AI workbench for scientists, is now available (2026-06-30)
-   요약: 연구자들이 자주 쓰는 도구·패키지를 통합한, 과학자를 위한 커스터마이징 가능한 AI 워크벤치 "Claude Science" 출시.
+   요약: 연구자들이 자주 쓰는 도구·패키지를 통합하고 감사 가능한 결과물을 제공하는, 과학자를 위한 커스터마이징 가능한 AI 워크벤치 "Claude Science" 출시.
    링크: https://anthropic.com/news/claude-science-ai-workbench
 
 7. Introducing Claude Tag (2026-06-23)
