@@ -1,0 +1,45 @@
+Anthropic 최신 업데이트 요약
+생성일시: 2026-07-09 17:21 (KST)
+소스: https://www.anthropic.com/news
+
+1. The Making of Claude Code (2026-07-06)
+   요약: Claude Code가 내부용 CLI 도구에서 Anthropic의 코딩 에이전트로 발전한 과정을 연구자, 엔지니어, 초기 사용자들의 시각에서 소개하는 글.
+   링크: https://anthropic.com/features/making-of-claude-code
+
+2. Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems (2026-07-06)
+   요약: 캐나다 앨버타 주정부가 Claude를 활용해 정부 시스템 전반의 사이버보안 취약점을 발견하고 해결한 사례 연구.
+   링크: https://anthropic.com/news/alberta-government-claude-cybersecurity
+
+3. More details on Fable 5's cyber safeguards and our jailbreak framework (2026-07-02)
+   요약: Fable 5의 사이버 보안 안전장치와 업계 표준 jailbreak 심각도 평가 프레임워크에 대한 추가 세부사항 공개.
+   링크: https://anthropic.com/news/fable-safeguards-jailbreak-framework
+
+4. Introducing Claude Sonnet 5 (2026-06-30)
+   요약: 코딩, 에이전트 작업, 전문 업무 전반에서 프론티어 수준 성능을 제공하는 Claude Sonnet 5 출시 발표.
+   링크: https://anthropic.com/news/claude-sonnet-5
+
+5. Redeploying Fable 5 (2026-06-30)
+   요약: Fable 5의 전역 재배포 소식과 Amazon, Microsoft, Google 등 파트너사와 함께 제안한 jailbreak 심각도 평가 프레임워크 관련 내용.
+   링크: https://anthropic.com/news/redeploying-fable-5
+
+6. Claude Science, an AI workbench for scientists, is now available (2026-06-30)
+   요약: 연구자들이 자주 쓰는 도구·패키지를 통합한, 과학자를 위한 커스터마이징 가능한 AI 워크벤치 "Claude Science" 출시.
+   링크: https://anthropic.com/news/claude-science-ai-workbench
+
+7. Introducing Claude Tag (2026-06-23)
+   요약: 팀이 Claude와 함께 협업하는 새로운 방식인 "Claude Tag" 소개.
+   링크: https://anthropic.com/news/introducing-claude-tag
+
+8. Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem (2026-06-17)
+   요약: Anthropic의 서울 오피스 개설 소식과 한국 AI 생태계 전반에 걸친 신규 파트너십 발표.
+   링크: https://anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem
+
+9. Statement on the US government directive to suspend access to Fable 5 and Mythos 5 (2026-06-12)
+   요약: Fable 5 및 Mythos 5에 대한 접근을 중단하라는 미국 정부 지시와 관련한 Anthropic의 공식 성명.
+   링크: https://anthropic.com/news/fable-mythos-access
+
+10. Results from the first Anthropic Public Record (2026-06-12)
+   요약: 첫 번째 "Anthropic Public Record" 결과 공개.
+   링크: https://anthropic.com/news/anthropic-public-record
+
+※ 위 요약은 WebFetch로 가져온 페이지 내용을 축약한 것으로, 세부 사실 확인이 필요하면 각 원문 링크를 직접 확인하시기 바랍니다.
